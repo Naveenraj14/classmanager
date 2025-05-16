@@ -25,3 +25,5 @@ Password Management: Users have the option to securely update their passwords as
 🔹 Multi-User Role Management:
 The application is designed for multi-role access, distinguishing between students and teachers, each having customized permissions and functionalities according to their role.
 
+
+
